@@ -2,7 +2,8 @@
 
 ![](https://github.com/baressiym/Bank-Marketing/blob/main/telemarketing.jpg)
 
----
+
+
 ## Business Problem Understanding
 
 
